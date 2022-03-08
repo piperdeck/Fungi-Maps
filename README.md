@@ -2,8 +2,8 @@
 
 Choose a dimesion:
 
-**Overworld**
+[**Overworld**](Overworld/index.html)
 
-**Nether**
+[**Nether**](Nether/index.html)
 
-**End**
+[**End**](End/index.html)
