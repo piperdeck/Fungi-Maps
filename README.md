@@ -3,3 +3,5 @@
 [![Nether](Assets/nether_thumbnail.png)](Nether/index.html)
 
 [![The End](Assets/end_thumbnail.png)](End/index.html)
+
+[Update History](update_history.md)
