@@ -1,9 +1,7 @@
 # Fungi Maps
 
-Choose a dimesion:
+[![Overworld](Assets/overworld_thumbnail.png)](Overworld/index.html)
 
-[**Overworld**](Overworld/index.html)
+[![Nether](Assets/nether_thumbnail.png)](Nether/index.html)
 
-[**Nether**](Nether/index.html)
-
-[**End**](End/index.html)
+[![The End](Assets/end_thumbnail.png)](End/index.html)
