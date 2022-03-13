@@ -1,0 +1,2317 @@
+
+
+=== 2022-03-13 Updating Maps ===
+
+04:00:01 Pulling from github...
+Already up to date.
+
+04:00:02 Downloading save folder updates...
+
+04:01:19 Mapping Overworld...
+[04:01:19 INF] (main) uNmINeD command line interface v0.18.14-dev
+[04:01:20 INF] (main) Platform: debian.11-arm64 (.NET 6.0.2) on Linux 5.10.92-v8+ #1514 SMP PREEMPT Mon Jan 17 17:39:38 GMT 2022
+[04:01:20 INF] (main) Architecture: Arm64, threads: 4, 64 bit: True
+[04:01:22 INF] (Web) World path: ./Fungi SMP
+[04:01:22 INF] (Web) Dimension: minecraft:overworld
+[04:01:22 INF] (Web) Dimension loaded: minecraft:overworld
+[04:01:22 INF] (Web) World name: Fungi SMP
+[04:01:22 INF] (Web) World seed: 8845955563777383912
+[04:01:22 INF] (Web) World type: Java
+[04:01:22 INF] (Web) World version name: 1.18.2
+[04:01:22 INF] (Web) World version id: 2975
+[04:01:22 INF] (Web) World data version: 2975
+[04:01:22 INF] (Web) World size: 10752 x 15872 blocks
+[04:01:22 INF] (Web) World rectangle: rr(-11; -16; 21 x 31)
+[04:01:22 INF] (Web) World region count: 333
+[04:01:22 INF] (Web) 
+[04:01:22 INF] (Web) Output path: ./Overworld
+[04:01:22 INF] (Web) Output image format: PNG
+[04:01:22 INF] (Web) Tile size: 256
+[04:01:22 INF] (Web) Rendering changed tiles only
+[04:01:22 INF] (Web) 
+[04:01:22 INF] (Web) Selected rectangle: rr(-11; -16; 21 x 31)
+[04:01:22 INF] (Web) Selected region count: 333
+[04:01:22 INF] (Web) Selected zoom range: -3 to 2
+[04:01:22 INF] (Web) 
+[04:01:22 INF] (Web) Generating HTML
+[04:01:22 INF] (Web) 
+[04:01:22 INF] (Workspace) Loading block tags from config/blocktags.js
+[04:01:22 INF] (Workspace) Loading block tags from "default/default.blocktags.js"
+[04:01:24 INF] (Workspace) 220 block tags.
+[04:01:24 INF] (Workspace) Loading block tags from "biomesoplenty.zip/biomesoplenty.blocktags.js"
+[04:01:24 INF] (Workspace) 26 block tags.
+[04:01:24 INF] (Workspace) Loading block tags from config/blocktags.txt
+[04:01:24 INF] (Workspace) Loading block tags from "custom.blocktags.txt"
+[04:01:24 INF] (Workspace) 1 block tags.
+[04:01:24 INF] (Workspace) Loading biome number mappings from config/biomenumbers.json
+[04:01:24 INF] (Workspace) Loading biome number mappings from "default/vanilla.biomenumbers.java.txt"
+[04:01:24 INF] (Workspace) 81 biome number mappings.
+[04:01:24 INF] (Workspace) Loading block number mappings from config/blocknumbers.json
+[04:01:24 INF] (Workspace) Loading block number mappings from "default/vanilla.blocknumbers.java.json"
+[04:01:24 INF] (Workspace) 254 block number mappings.
+[04:01:24 INF] (Workspace) 169 block data mappings.
+[04:01:24 INF] (Workspace) Loading block number mappings from Forge registry in level.dat
+[04:01:24 INF] (Workspace) 0 block number mappings.
+[04:01:24 INF] (WorkspaceMap) Loading JS stylesheets from config/stylesheet.js
+[04:01:24 INF] (WorkspaceMap) Loading JS stylesheet from "default/default.stylesheet.js"
+[04:01:25 INF] (WorkspaceMap) 123 styles, 0 tags, 113 colors, 2 curves, 9 gradients, 0 biome tints, 16 settings
+[04:01:25 INF] (WorkspaceMap) Loading colors from config/colors.txt
+[04:01:25 INF] (WorkspaceMap) Loading colors from "custom.colors.txt"
+[04:01:25 INF] (WorkspaceMap) 1 colors
+[04:01:25 INF] (WorkspaceMap) Loading block styles from config/blockstyles.txt
+[04:01:25 INF] (WorkspaceMap) Loading block styles from "custom.blockstyles.txt"
+[04:01:25 INF] (WorkspaceMap) 562 block styles
+[04:01:25 INF] (WorkspaceMap) Loading block styles from game folder datapacks
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/afk display v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/anti enderman grief v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/armor statues v2.8.3.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/durability ping v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/fast leaf decay v2.0.5.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/kill empty boats v1.1.3.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/more mob heads v2.9.4.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/multiplayer sleep v2.6.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/nether portal coords v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/player head drops v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/silence mobs v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator conduit power v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator night vision v1.1.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/track raw statistics v1.5.2.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/wandering trades v1.5.1.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/VanillaTweaks_c545071.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/deepslate-stonecutting-e3331.zip"
+[04:01:25 INF] (DataPackBiomes) 0 biome tints
+[04:01:25 INF] (WorkspaceMap) Loading biome tints from config/biometints.txt
+[04:01:25 INF] (WorkspaceMap) Loading biome tints from "custom.biometints.txt"
+[04:01:25 INF] (WorkspaceMap) 1 biome tints
+[04:01:25 INF] (Web) Rendering zoom level 0
+[04:01:25 INF] (Web) Tile count: 1332
+[04:01:25 INF] (Web) Looking for changed tiles at z0
+[04:01:25 INF] (Web) Tiles to render: 78
+[04:01:25 INF] (Web) Batch count: 9
+[04:01:25 INF] (Web) Starting batch z0 tr(0; 0; 16 x 16)
+[04:01:26 INF] (Web) Rendering tile z0 t(0; 0) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(1; 0) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(0; 1) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(2; 0) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(1; 1) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(2; 1) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(3; 0) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(3; 1) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(4; 0) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(4; 1) [0.00%]
+[04:01:26 INF] (Web) Rendering tile z0 t(4; 2) [0.00%]
+[04:01:28 INF] (Web) Rendering tile z0 t(4; 3) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(5; 0) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(5; 1) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(5; 2) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(6; 2) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(6; 0) [0.00%]
+[04:01:31 INF] (Web) Rendering tile z0 t(6; 1) [0.00%]
+[04:01:33 INF] (Web) Rendering tile z0 t(5; 3) [0.00%]
+[04:01:33 INF] (Web) Rendering tile z0 t(6; 3) [0.00%]
+[04:01:36 INF] (Web) Rendering tile z0 t(7; 2) [0.00%]
+[04:01:36 INF] (Web) Rendering tile z0 t(7; 0) [0.00%]
+[04:01:36 INF] (Web) Rendering tile z0 t(7; 1) [0.00%]
+[04:01:36 INF] (Web) Rendering tile z0 t(7; 3) [0.00%]
+[04:01:49 INF] (Web) Starting batch z0 tr(-16; -16; 16 x 16)
+[04:01:49 INF] (Web) Rendering tile z0 t(-4; -2) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-6; -2) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-4; -1) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-5; -2) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-3; -1) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-6; -1) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-2; -1) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-3; -2) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-5; -1) [30.77%]
+[04:01:49 INF] (Web) Rendering tile z0 t(-2; -2) [30.77%]
+[04:01:51 INF] (Web) Rendering tile z0 t(-1; -1) [30.77%]
+[04:01:51 INF] (Web) Rendering tile z0 t(-1; -2) [30.77%]
+[04:01:59 INF] (Web) Starting batch z0 tr(0; 16; 16 x 16)
+[04:02:00 INF] (Web) Starting batch z0 tr(16; 16; 16 x 16)
+[04:02:00 INF] (Web) Starting batch z0 tr(16; 0; 16 x 16)
+[04:02:00 INF] (Web) Starting batch z0 tr(-32; 16; 16 x 16)
+[04:02:00 INF] (Web) Starting batch z0 tr(0; -32; 16 x 16)
+[04:02:00 INF] (Web) Starting batch z0 tr(-16; 0; 16 x 16)
+[04:02:00 INF] (Web) Rendering tile z0 t(-2; 1) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-2; 0) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-4; 1) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-1; 1) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-3; 0) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-3; 1) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-5; 0) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-4; 0) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-1; 0) [74.36%]
+[04:02:00 INF] (Web) Rendering tile z0 t(-5; 1) [74.36%]
+[04:02:02 INF] (Web) Rendering tile z0 t(-6; 1) [74.36%]
+[04:02:02 INF] (Web) Rendering tile z0 t(-6; 0) [74.36%]
+[04:02:10 INF] (Web) Starting batch z0 tr(0; -16; 16 x 16)
+[04:02:10 INF] (Web) Rendering tile z0 t(3; -2) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(1; -1) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(1; -2) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(0; -1) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(3; -1) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(2; -2) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(2; -1) [89.74%]
+[04:02:10 INF] (Web) Rendering tile z0 t(0; -2) [89.74%]
+[04:02:17 INF] (Web) Rendering zoom level 1
+[04:02:17 INF] (Web) Tile count: 5328
+[04:02:17 INF] (Web) Looking for changed tiles at z1
+[04:02:17 INF] (Web) Tiles to render: 312
+[04:02:17 INF] (Web) Batch count: 9
+[04:02:17 INF] (Web) Starting batch z1 tr(0; 0; 16 x 16)
+[04:02:17 INF] (Web) Rendering tile z1 t(3; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(7; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(6; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(2; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(3; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(7; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(1; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(3; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(6; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(2; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(2; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(6; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(3; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(4; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(0; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(7; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(4; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(1; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(4; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(6; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(5; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(5; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(7; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(2; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(4; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(5; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(1; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(5; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(0; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(0; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(0; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(1; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 6) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 6) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(8; 7) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(9; 7) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(10; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(11; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 4) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 5) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 0) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 1) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 2) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(12; 3) [0.00%]
+[04:02:17 INF] (Web) Rendering tile z1 t(13; 3) [0.00%]
+[04:02:23 INF] (Web) Rendering tile z1 t(10; 6) [0.00%]
+[04:02:23 INF] (Web) Rendering tile z1 t(11; 6) [0.00%]
+[04:02:23 INF] (Web) Rendering tile z1 t(10; 7) [0.00%]
+[04:02:23 INF] (Web) Rendering tile z1 t(11; 7) [0.00%]
+[04:02:24 INF] (Web) Rendering tile z1 t(12; 6) [0.00%]
+[04:02:24 INF] (Web) Rendering tile z1 t(13; 6) [0.00%]
+[04:02:24 INF] (Web) Rendering tile z1 t(12; 7) [0.00%]
+[04:02:24 INF] (Web) Rendering tile z1 t(13; 7) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 4) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 4) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 5) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 5) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 0) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 0) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 1) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 1) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 2) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 2) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(14; 3) [0.00%]
+[04:02:34 INF] (Web) Rendering tile z1 t(15; 3) [0.00%]
+[04:02:35 INF] (Web) Rendering tile z1 t(14; 6) [0.00%]
+[04:02:35 INF] (Web) Rendering tile z1 t(15; 6) [0.00%]
+[04:02:35 INF] (Web) Rendering tile z1 t(14; 7) [0.00%]
+[04:02:36 INF] (Web) Rendering tile z1 t(15; 7) [0.00%]
+[04:02:59 INF] (Web) Starting batch z1 tr(-16; -16; 16 x 16)
+[04:02:59 INF] (Web) Rendering tile z1 t(-9; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-5; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-10; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-6; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-7; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-7; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-5; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-8; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-6; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-8; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-11; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-5; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-3; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-7; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-6; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-12; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-8; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-3; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-4; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-7; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-9; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-8; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-3; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-10; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-4; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-9; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-4; -4) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-11; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-5; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-10; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-12; -3) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-11; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-6; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-12; -2) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-3; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-9; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-4; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-10; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-11; -1) [30.77%]
+[04:02:59 INF] (Web) Rendering tile z1 t(-12; -1) [30.77%]
+[04:03:01 INF] (Web) Rendering tile z1 t(-1; -3) [30.77%]
+[04:03:01 INF] (Web) Rendering tile z1 t(-2; -3) [30.77%]
+[04:03:01 INF] (Web) Rendering tile z1 t(-1; -2) [30.77%]
+[04:03:02 INF] (Web) Rendering tile z1 t(-2; -2) [30.77%]
+[04:03:02 INF] (Web) Rendering tile z1 t(-1; -1) [30.77%]
+[04:03:02 INF] (Web) Rendering tile z1 t(-2; -1) [30.77%]
+[04:03:02 INF] (Web) Rendering tile z1 t(-1; -4) [30.77%]
+[04:03:02 INF] (Web) Rendering tile z1 t(-2; -4) [30.77%]
+[04:03:20 INF] (Web) Starting batch z1 tr(16; 32; 16 x 16)
+[04:03:20 INF] (Web) Starting batch z1 tr(32; 32; 16 x 16)
+[04:03:20 INF] (Web) Starting batch z1 tr(32; 16; 16 x 16)
+[04:03:20 INF] (Web) Starting batch z1 tr(-48; 32; 16 x 16)
+[04:03:20 INF] (Web) Starting batch z1 tr(16; -48; 16 x 16)
+[04:03:20 INF] (Web) Starting batch z1 tr(-16; 0; 16 x 16)
+[04:03:21 INF] (Web) Rendering tile z1 t(-1; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-5; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-7; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-1; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-6; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-9; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-2; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-3; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-10; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-2; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-8; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-3; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-1; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-4; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-11; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-4; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-2; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-9; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-3; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-12; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-10; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-4; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-3; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-9; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-1; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-11; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-4; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-10; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-12; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-2; 1) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-5; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-5; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-6; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-9; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-6; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-10; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-5; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-7; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-6; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-8; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-11; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-7; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-12; 0) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-8; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-11; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-7; 2) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-12; 3) [74.36%]
+[04:03:21 INF] (Web) Rendering tile z1 t(-8; 2) [74.36%]
+[04:03:42 INF] (Web) Starting batch z1 tr(0; -16; 16 x 16)
+[04:03:42 INF] (Web) Rendering tile z1 t(7; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(5; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(6; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(4; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(3; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(7; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(3; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(6; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(2; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(2; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(5; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(4; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(7; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(1; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(3; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(6; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(0; -1) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(2; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(7; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(1; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(1; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(6; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(0; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(0; -2) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(5; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(4; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(3; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(2; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(5; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(4; -3) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(1; -4) [89.74%]
+[04:03:42 INF] (Web) Rendering tile z1 t(0; -4) [89.74%]
+[04:03:57 INF] (Web) Rendering zoom level 2
+[04:03:57 INF] (Web) Tile count: 21312
+[04:03:57 INF] (Web) Looking for changed tiles at z2
+[04:03:57 INF] (Web) Looking for changed tiles at z2 (46.92%)
+[04:03:57 INF] (Web) Looking for changed tiles at z2 (93.84%)
+[04:03:57 INF] (Web) Tiles to render: 1346
+[04:03:57 INF] (Web) Batch count: 15
+[04:03:57 INF] (Web) Starting batch z2 tr(0; 0; 16 x 16)
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 1) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(7; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 2) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(6; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 3) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(3; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(5; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 0) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 4) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(2; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(1; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(0; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(4; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(8; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(9; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(10; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 5) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 6) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(11; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(12; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(13; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(14; 7) [0.00%]
+[04:03:57 INF] (Web) Rendering tile z2 t(15; 7) [0.00%]
+[04:04:38 INF] (Web) Starting batch z2 tr(-16; -16; 16 x 16)
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -3) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-11; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -1) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -2) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-12; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-13; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-14; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -6) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-15; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-16; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-9; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-10; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -5) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -7) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -4) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-6; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-1; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-7; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-2; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-3; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-4; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-5; -8) [9.51%]
+[04:04:39 INF] (Web) Rendering tile z2 t(-8; -8) [9.51%]
+[04:05:20 INF] (Web) Starting batch z2 tr(16; 0; 16 x 16)
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 4) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 13) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 4) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 13) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(20; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 4) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(20; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 13) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 14) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 3) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 3) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 14) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 4) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 9) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 11) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 13) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 1) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 14) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 3) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 7) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(20; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 7) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 1) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 1) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 5) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 0) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(20; 14) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 11) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 0) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(18; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 11) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 7) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(19; 14) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 12) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(20; 15) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(23; 6) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(17; 2) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(21; 0) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 2) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 3) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(16; 8) [19.02%]
+[04:05:20 INF] (Web) Rendering tile z2 t(22; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(23; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(23; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(23; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(22; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(22; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(23; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(22; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(23; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(22; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(22; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(21; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 8) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 9) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(20; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(19; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(18; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(17; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(16; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 10) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 11) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 0) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 12) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 1) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 13) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 14) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 2) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(24; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 15) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(25; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 3) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(26; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 5) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 4) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 6) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(27; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(28; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(29; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(30; 7) [19.02%]
+[04:05:21 INF] (Web) Rendering tile z2 t(31; 7) [19.02%]
+[04:06:39 INF] (Web) Starting batch z2 tr(-32; -16; 16 x 16)
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -1) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -2) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -3) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -5) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-22; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-23; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-24; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -6) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-17; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -4) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-18; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-19; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -7) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-20; -8) [38.04%]
+[04:06:39 INF] (Web) Rendering tile z2 t(-21; -8) [38.04%]
+[04:07:00 INF] (Web) Starting batch z2 tr(32; 80; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(48; 80; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(64; 80; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(64; 48; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(64; 64; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(-80; 80; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(-80; 64; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(32; -80; 16 x 16)
+[04:07:00 INF] (Web) Starting batch z2 tr(-32; 0; 16 x 16)
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-22; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-20; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-17; 4) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-23; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-21; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-18; 4) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-24; 6) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 3) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-21; 4) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-24; 3) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-17; 2) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-20; 3) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-22; 4) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-17; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-18; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-20; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-23; 4) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-21; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-24; 1) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-17; 7) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-22; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-23; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-18; 2) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-22; 3) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-18; 7) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 2) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 7) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-18; 1) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-24; 5) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-19; 1) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-20; 7) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-17; 0) [76.23%]
+[04:07:00 INF] (Web) Rendering tile z2 t(-21; 3) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-21; 7) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-19; 4) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-22; 7) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-20; 1) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-18; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-23; 7) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-20; 2) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-17; 3) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-24; 7) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-21; 2) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-19; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-17; 6) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-17; 1) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-18; 6) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-23; 3) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-22; 2) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-24; 4) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-20; 4) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-20; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-23; 2) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-24; 2) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-18; 3) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-21; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-22; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-23; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-22; 1) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-23; 1) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-24; 0) [76.23%]
+[04:07:01 INF] (Web) Rendering tile z2 t(-21; 1) [76.23%]
+[04:07:23 INF] (Web) Starting batch z2 tr(-16; 0; 16 x 16)
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 1) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-6; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-9; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-8; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 0) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-11; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-14; 2) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-15; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-4; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-5; 5) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-2; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-3; 7) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-7; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-1; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-10; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-16; 6) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 4) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-12; 3) [80.98%]
+[04:07:23 INF] (Web) Rendering tile z2 t(-13; 3) [80.98%]
+[04:08:04 INF] (Web) Starting batch z2 tr(0; -16; 16 x 16)
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -3) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(15; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -2) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -1) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(5; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(14; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(4; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(3; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -7) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(2; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(13; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(1; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(0; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -5) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(7; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(6; -4) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(12; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -6) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(11; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(10; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(9; -8) [90.49%]
+[04:08:04 INF] (Web) Rendering tile z2 t(8; -8) [90.49%]
+[04:08:44 INF] (Web) Rendering zoom level -1
+[04:08:44 INF] (Web) Rendering zoom-out tile z-1 t(-3; -1)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(-2; -1)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(-1; -1)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(0; -1)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(1; -1)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(-3; 0)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(-2; 0)
+[04:08:45 INF] (Web) Rendering zoom-out tile z-1 t(-1; 0)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(0; 0)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(1; 0)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(2; 0)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(3; 0)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(2; 1)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-1 t(3; 1)
+[04:08:46 INF] (Web) Rendering zoom level -2
+[04:08:46 INF] (Web) Rendering zoom-out tile z-2 t(-2; -1)
+[04:08:46 INF] (Web) Rendering zoom-out tile z-2 t(-1; -1)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-2 t(0; -1)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-2 t(-2; 0)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-2 t(-1; 0)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-2 t(0; 0)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-2 t(1; 0)
+[04:08:47 INF] (Web) Rendering zoom level -3
+[04:08:47 INF] (Web) Rendering zoom-out tile z-3 t(-1; -1)
+[04:08:47 INF] (Web) Rendering zoom-out tile z-3 t(0; -1)
+[04:08:49 INF] (Web) Rendering zoom-out tile z-3 t(-1; 0)
+[04:08:49 INF] (Web) Rendering zoom-out tile z-3 t(0; 0)
+[04:08:49 INF] (Web) Finished
+[04:08:49 INF] (Web) 1736 Terrain tiles
+[04:08:49 INF] (Web) 26236 Terrain tiles skipped
+[04:08:49 INF] (Web) 1736 Terrain tiles rendered
+[04:08:49 INF] (Web) 1021440 Chunks rendered
+[04:08:49 INF] (Web) 0 Chunks failed
+[04:08:49 INF] (Web) Elapsed time: 0.00:07:22, 2307 chunks/s
+[04:08:49 INF] (Web) 476 Zoom-out tiles
+[04:08:49 INF] (Web) 451 Zoom-out tiles skipped
+[04:08:49 INF] (Web) 25 Zoom-out tiles rendered
+[04:08:49 INF] (Web) Elapsed time total: 0.00:07:27
+
+04:08:49 Mapping Nether...
+[04:08:50 INF] (main) uNmINeD command line interface v0.18.14-dev
+[04:08:50 INF] (main) Platform: debian.11-arm64 (.NET 6.0.2) on Linux 5.10.92-v8+ #1514 SMP PREEMPT Mon Jan 17 17:39:38 GMT 2022
+[04:08:50 INF] (main) Architecture: Arm64, threads: 4, 64 bit: True
+[04:08:52 INF] (Web) World path: ./Fungi SMP
+[04:08:52 INF] (Web) Dimension: minecraft:the_nether
+[04:08:52 INF] (Web) Dimension loaded: minecraft:the_nether
+[04:08:52 INF] (Web) World name: Fungi SMP
+[04:08:52 INF] (Web) World seed: 8845955563777383912
+[04:08:52 INF] (Web) World type: Java
+[04:08:52 INF] (Web) World version name: 1.18.2
+[04:08:52 INF] (Web) World version id: 2975
+[04:08:52 INF] (Web) World data version: 2975
+[04:08:52 INF] (Web) World size: 10240 x 13824 blocks
+[04:08:52 INF] (Web) World rectangle: rr(-11; -16; 20 x 27)
+[04:08:52 INF] (Web) World region count: 63
+[04:08:52 INF] (Web) 
+[04:08:52 INF] (Web) Output path: ./Nether
+[04:08:52 INF] (Web) Output image format: PNG
+[04:08:52 INF] (Web) Tile size: 256
+[04:08:52 INF] (Web) Rendering changed tiles only
+[04:08:52 INF] (Web) 
+[04:08:52 INF] (Web) Selected rectangle: rr(-11; -16; 20 x 27)
+[04:08:52 INF] (Web) Selected region count: 63
+[04:08:52 INF] (Web) Selected zoom range: -3 to 2
+[04:08:52 INF] (Web) 
+[04:08:52 INF] (Web) Generating HTML
+[04:08:52 INF] (Web) 
+[04:08:52 INF] (Workspace) Loading block tags from config/blocktags.js
+[04:08:53 INF] (Workspace) Loading block tags from "default/default.blocktags.js"
+[04:08:54 INF] (Workspace) 220 block tags.
+[04:08:54 INF] (Workspace) Loading block tags from "biomesoplenty.zip/biomesoplenty.blocktags.js"
+[04:08:54 INF] (Workspace) 26 block tags.
+[04:08:54 INF] (Workspace) Loading block tags from config/blocktags.txt
+[04:08:54 INF] (Workspace) Loading block tags from "custom.blocktags.txt"
+[04:08:54 INF] (Workspace) 1 block tags.
+[04:08:54 INF] (Workspace) Loading biome number mappings from config/biomenumbers.json
+[04:08:54 INF] (Workspace) Loading biome number mappings from "default/vanilla.biomenumbers.java.txt"
+[04:08:54 INF] (Workspace) 81 biome number mappings.
+[04:08:54 INF] (Workspace) Loading block number mappings from config/blocknumbers.json
+[04:08:54 INF] (Workspace) Loading block number mappings from "default/vanilla.blocknumbers.java.json"
+[04:08:55 INF] (Workspace) 254 block number mappings.
+[04:08:55 INF] (Workspace) 169 block data mappings.
+[04:08:55 INF] (Workspace) Loading block number mappings from Forge registry in level.dat
+[04:08:55 INF] (Workspace) 0 block number mappings.
+[04:08:55 INF] (WorkspaceMap) Loading JS stylesheets from config/stylesheet.js
+[04:08:55 INF] (WorkspaceMap) Loading JS stylesheet from "default/default.stylesheet.js"
+[04:08:55 INF] (WorkspaceMap) 123 styles, 0 tags, 113 colors, 2 curves, 9 gradients, 0 biome tints, 16 settings
+[04:08:55 INF] (WorkspaceMap) Loading colors from config/colors.txt
+[04:08:55 INF] (WorkspaceMap) Loading colors from "custom.colors.txt"
+[04:08:55 INF] (WorkspaceMap) 1 colors
+[04:08:55 INF] (WorkspaceMap) Loading block styles from config/blockstyles.txt
+[04:08:55 INF] (WorkspaceMap) Loading block styles from "custom.blockstyles.txt"
+[04:08:55 INF] (WorkspaceMap) 562 block styles
+[04:08:55 INF] (WorkspaceMap) Loading block styles from game folder datapacks
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/afk display v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/anti enderman grief v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/armor statues v2.8.3.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/durability ping v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/fast leaf decay v2.0.5.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/kill empty boats v1.1.3.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/more mob heads v2.9.4.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/multiplayer sleep v2.6.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/nether portal coords v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/player head drops v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/silence mobs v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator conduit power v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator night vision v1.1.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/track raw statistics v1.5.2.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/wandering trades v1.5.1.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/VanillaTweaks_c545071.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/deepslate-stonecutting-e3331.zip"
+[04:08:55 INF] (DataPackBiomes) 0 biome tints
+[04:08:55 INF] (WorkspaceMap) Loading biome tints from config/biometints.txt
+[04:08:55 INF] (WorkspaceMap) Loading biome tints from "custom.biometints.txt"
+[04:08:55 INF] (WorkspaceMap) 1 biome tints
+[04:08:55 INF] (Web) Rendering zoom level 0
+[04:08:55 INF] (Web) Tile count: 252
+[04:08:55 INF] (Web) Looking for changed tiles at z0
+[04:08:55 INF] (Web) Tiles to render: 32
+[04:08:55 INF] (Web) Batch count: 4
+[04:08:55 INF] (Web) Starting batch z0 tr(0; 0; 16 x 16)
+[04:08:56 INF] (Web) Rendering tile z0 t(0; 0) [0.00%]
+[04:08:56 INF] (Web) Rendering tile z0 t(0; 1) [0.00%]
+[04:08:56 INF] (Web) Rendering tile z0 t(1; 0) [0.00%]
+[04:08:56 INF] (Web) Rendering tile z0 t(1; 1) [0.00%]
+[04:09:05 INF] (Web) Starting batch z0 tr(0; -16; 16 x 16)
+[04:09:05 INF] (Web) Rendering tile z0 t(0; -1) [12.50%]
+[04:09:05 INF] (Web) Rendering tile z0 t(1; -1) [12.50%]
+[04:09:05 INF] (Web) Rendering tile z0 t(0; -2) [12.50%]
+[04:09:05 INF] (Web) Rendering tile z0 t(1; -2) [12.50%]
+[04:09:12 INF] (Web) Starting batch z0 tr(-16; -16; 16 x 16)
+[04:09:12 INF] (Web) Rendering tile z0 t(-1; -1) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-2; -1) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-1; -2) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-2; -2) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-3; -2) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-4; -2) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-4; -1) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-3; -1) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-5; -2) [25.00%]
+[04:09:12 INF] (Web) Rendering tile z0 t(-5; -1) [25.00%]
+[04:09:13 INF] (Web) Rendering tile z0 t(-6; -2) [25.00%]
+[04:09:13 INF] (Web) Rendering tile z0 t(-6; -1) [25.00%]
+[04:09:22 INF] (Web) Starting batch z0 tr(-16; 0; 16 x 16)
+[04:09:22 INF] (Web) Rendering tile z0 t(-4; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-3; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-2; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-3; 0) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-1; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-6; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-2; 0) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-5; 1) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-1; 0) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-4; 0) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-6; 0) [62.50%]
+[04:09:22 INF] (Web) Rendering tile z0 t(-5; 0) [62.50%]
+[04:09:31 INF] (Web) Rendering zoom level 1
+[04:09:31 INF] (Web) Tile count: 1008
+[04:09:31 INF] (Web) Looking for changed tiles at z1
+[04:09:31 INF] (Web) Tiles to render: 128
+[04:09:31 INF] (Web) Batch count: 4
+[04:09:31 INF] (Web) Starting batch z1 tr(0; 0; 16 x 16)
+[04:09:31 INF] (Web) Rendering tile z1 t(3; 2) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(3; 1) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(1; 2) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(1; 1) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(2; 1) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(0; 2) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(3; 0) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(0; 1) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(2; 2) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(0; 3) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(2; 0) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(0; 0) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(2; 3) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(1; 3) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(3; 3) [0.00%]
+[04:09:31 INF] (Web) Rendering tile z1 t(1; 0) [0.00%]
+[04:09:48 INF] (Web) Starting batch z1 tr(0; -16; 16 x 16)
+[04:09:48 INF] (Web) Rendering tile z1 t(3; -1) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(3; -3) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(3; -4) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(3; -2) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(2; -2) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(2; -4) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(1; -2) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(2; -3) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(2; -1) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(0; -2) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(1; -3) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(1; -1) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(0; -1) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(0; -3) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(1; -4) [12.50%]
+[04:09:48 INF] (Web) Rendering tile z1 t(0; -4) [12.50%]
+[04:10:04 INF] (Web) Starting batch z1 tr(-16; -16; 16 x 16)
+[04:10:04 INF] (Web) Rendering tile z1 t(-1; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-3; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-3; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-2; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-3; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-4; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-1; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-4; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-3; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-2; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-4; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-4; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-1; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-8; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-8; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-2; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-7; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-7; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-6; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-6; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-1; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-2; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-5; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-6; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-8; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-5; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-5; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-7; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-8; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-6; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-7; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-5; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-10; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-10; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-9; -4) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-9; -2) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-10; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-10; -1) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-9; -3) [25.00%]
+[04:10:04 INF] (Web) Rendering tile z1 t(-9; -1) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-12; -4) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-11; -4) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-12; -3) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-11; -3) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-12; -2) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-11; -2) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-12; -1) [25.00%]
+[04:10:05 INF] (Web) Rendering tile z1 t(-11; -1) [25.00%]
+[04:10:25 INF] (Web) Starting batch z1 tr(-16; 0; 16 x 16)
+[04:10:25 INF] (Web) Rendering tile z1 t(-5; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-7; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-6; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-8; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-1; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-7; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-5; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-3; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-8; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-2; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-7; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-4; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-8; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-6; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-9; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-1; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-3; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-10; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-2; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-4; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-11; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-5; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-3; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-12; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-6; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-4; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-9; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-3; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-1; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-10; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-2; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-4; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-11; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-1; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-5; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-2; 2) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-12; 3) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-6; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-7; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-8; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-9; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-10; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-9; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-10; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-11; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-12; 0) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-11; 1) [62.50%]
+[04:10:25 INF] (Web) Rendering tile z1 t(-12; 1) [62.50%]
+[04:10:48 INF] (Web) Rendering zoom level 2
+[04:10:48 INF] (Web) Tile count: 4032
+[04:10:48 INF] (Web) Looking for changed tiles at z2
+[04:10:48 INF] (Web) Tiles to render: 512
+[04:10:48 INF] (Web) Batch count: 6
+[04:10:48 INF] (Web) Starting batch z2 tr(0; 0; 16 x 16)
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 5) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 2) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 6) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 3) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(5; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 4) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(6; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(7; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(4; 7) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 1) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(3; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(2; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(1; 0) [0.00%]
+[04:10:48 INF] (Web) Rendering tile z2 t(0; 0) [0.00%]
+[04:11:36 INF] (Web) Starting batch z2 tr(0; -16; 16 x 16)
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -1) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -3) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(2; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(0; -2) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -4) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(1; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -6) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(7; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(6; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(5; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -8) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -7) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(4; -5) [12.50%]
+[04:11:36 INF] (Web) Rendering tile z2 t(3; -5) [12.50%]
+[04:12:23 INF] (Web) Starting batch z2 tr(-16; -16; 16 x 16)
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-8; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-6; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-7; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -3) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -8) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-1; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -2) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-2; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -7) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-3; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-4; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-5; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -1) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -6) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -5) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-11; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-16; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-15; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-14; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-10; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-13; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-9; -4) [25.00%]
+[04:12:23 INF] (Web) Rendering tile z2 t(-12; -4) [25.00%]
+[04:13:23 INF] (Web) Starting batch z2 tr(-32; -16; 16 x 16)
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -6) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -1) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -7) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-17; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -5) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-18; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-19; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -3) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -2) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-22; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -4) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-23; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-20; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-24; -8) [50.00%]
+[04:13:23 INF] (Web) Rendering tile z2 t(-21; -8) [50.00%]
+[04:13:26 INF] (Web) Starting batch z2 tr(-32; 0; 16 x 16)
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-17; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 5) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 7) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 2) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-24; 6) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-18; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 4) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-22; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-23; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-19; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 0) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 1) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-20; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 3) [62.50%]
+[04:13:26 INF] (Web) Rendering tile z2 t(-21; 1) [62.50%]
+[04:13:34 INF] (Web) Starting batch z2 tr(-16; 0; 16 x 16)
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 5) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 6) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 7) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-9; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-10; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-11; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-13; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-14; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-12; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-15; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-16; 0) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-6; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-7; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-8; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 4) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 3) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-3; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-4; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-5; 2) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-1; 1) [75.00%]
+[04:13:34 INF] (Web) Rendering tile z2 t(-2; 1) [75.00%]
+[04:14:33 INF] (Web) Rendering zoom level -1
+[04:14:33 INF] (Web) Rendering zoom-out tile z-1 t(-3; -1)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(-2; -1)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(-1; -1)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(0; -1)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(-3; 0)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(-2; 0)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(-1; 0)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-1 t(0; 0)
+[04:14:34 INF] (Web) Rendering zoom level -2
+[04:14:34 INF] (Web) Rendering zoom-out tile z-2 t(-2; -1)
+[04:14:34 INF] (Web) Rendering zoom-out tile z-2 t(-1; -1)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-2 t(0; -1)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-2 t(-2; 0)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-2 t(-1; 0)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-2 t(0; 0)
+[04:14:35 INF] (Web) Rendering zoom level -3
+[04:14:35 INF] (Web) Rendering zoom-out tile z-3 t(-1; -1)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-3 t(0; -1)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-3 t(-1; 0)
+[04:14:35 INF] (Web) Rendering zoom-out tile z-3 t(0; 0)
+[04:14:35 INF] (Web) Finished
+[04:14:35 INF] (Web) 672 Terrain tiles
+[04:14:35 INF] (Web) 4620 Terrain tiles skipped
+[04:14:35 INF] (Web) 672 Terrain tiles rendered
+[04:14:35 INF] (Web) 349404 Chunks rendered
+[04:14:35 INF] (Web) 0 Chunks failed
+[04:14:35 INF] (Web) Elapsed time: 0.00:05:41, 1024 chunks/s
+[04:14:35 INF] (Web) 105 Zoom-out tiles
+[04:14:35 INF] (Web) 87 Zoom-out tiles skipped
+[04:14:35 INF] (Web) 18 Zoom-out tiles rendered
+[04:14:35 INF] (Web) Elapsed time total: 0.00:05:43
+
+04:14:35 Mapping End...
+[04:14:36 INF] (main) uNmINeD command line interface v0.18.14-dev
+[04:14:36 INF] (main) Platform: debian.11-arm64 (.NET 6.0.2) on Linux 5.10.92-v8+ #1514 SMP PREEMPT Mon Jan 17 17:39:38 GMT 2022
+[04:14:36 INF] (main) Architecture: Arm64, threads: 4, 64 bit: True
+[04:14:38 INF] (Web) World path: ./Fungi SMP
+[04:14:38 INF] (Web) Dimension: minecraft:the_end
+[04:14:38 INF] (Web) Dimension loaded: minecraft:the_end
+[04:14:38 INF] (Web) World name: Fungi SMP
+[04:14:38 INF] (Web) World seed: 8845955563777383912
+[04:14:38 INF] (Web) World type: Java
+[04:14:38 INF] (Web) World version name: 1.18.2
+[04:14:38 INF] (Web) World version id: 2975
+[04:14:38 INF] (Web) World data version: 2975
+[04:14:38 INF] (Web) World size: 7168 x 22016 blocks
+[04:14:39 INF] (Web) World rectangle: rr(-4; -31; 14 x 43)
+[04:14:39 INF] (Web) World region count: 160
+[04:14:39 INF] (Web) 
+[04:14:39 INF] (Web) Output path: ./End
+[04:14:39 INF] (Web) Output image format: PNG
+[04:14:39 INF] (Web) Tile size: 256
+[04:14:39 INF] (Web) Rendering changed tiles only
+[04:14:39 INF] (Web) 
+[04:14:39 INF] (Web) Selected rectangle: rr(-4; -31; 14 x 43)
+[04:14:39 INF] (Web) Selected region count: 160
+[04:14:39 INF] (Web) Selected zoom range: -3 to 2
+[04:14:39 INF] (Web) 
+[04:14:39 INF] (Web) Generating HTML
+[04:14:39 INF] (Web) 
+[04:14:39 INF] (Workspace) Loading block tags from config/blocktags.js
+[04:14:39 INF] (Workspace) Loading block tags from "default/default.blocktags.js"
+[04:14:40 INF] (Workspace) 220 block tags.
+[04:14:40 INF] (Workspace) Loading block tags from "biomesoplenty.zip/biomesoplenty.blocktags.js"
+[04:14:40 INF] (Workspace) 26 block tags.
+[04:14:40 INF] (Workspace) Loading block tags from config/blocktags.txt
+[04:14:40 INF] (Workspace) Loading block tags from "custom.blocktags.txt"
+[04:14:40 INF] (Workspace) 1 block tags.
+[04:14:40 INF] (Workspace) Loading biome number mappings from config/biomenumbers.json
+[04:14:40 INF] (Workspace) Loading biome number mappings from "default/vanilla.biomenumbers.java.txt"
+[04:14:40 INF] (Workspace) 81 biome number mappings.
+[04:14:40 INF] (Workspace) Loading block number mappings from config/blocknumbers.json
+[04:14:40 INF] (Workspace) Loading block number mappings from "default/vanilla.blocknumbers.java.json"
+[04:14:41 INF] (Workspace) 254 block number mappings.
+[04:14:41 INF] (Workspace) 169 block data mappings.
+[04:14:41 INF] (Workspace) Loading block number mappings from Forge registry in level.dat
+[04:14:41 INF] (Workspace) 0 block number mappings.
+[04:14:41 INF] (WorkspaceMap) Loading JS stylesheets from config/stylesheet.js
+[04:14:41 INF] (WorkspaceMap) Loading JS stylesheet from "default/default.stylesheet.js"
+[04:14:41 INF] (WorkspaceMap) 122 styles, 0 tags, 113 colors, 2 curves, 9 gradients, 0 biome tints, 16 settings
+[04:14:41 INF] (WorkspaceMap) Loading colors from config/colors.txt
+[04:14:41 INF] (WorkspaceMap) Loading colors from "custom.colors.txt"
+[04:14:41 INF] (WorkspaceMap) 1 colors
+[04:14:41 INF] (WorkspaceMap) Loading block styles from config/blockstyles.txt
+[04:14:41 INF] (WorkspaceMap) Loading block styles from "custom.blockstyles.txt"
+[04:14:41 INF] (WorkspaceMap) 562 block styles
+[04:14:41 INF] (WorkspaceMap) Loading block styles from game folder datapacks
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/afk display v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/anti enderman grief v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/armor statues v2.8.3.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/durability ping v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/fast leaf decay v2.0.5.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/kill empty boats v1.1.3.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/more mob heads v2.9.4.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/multiplayer sleep v2.6.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/nether portal coords v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/player head drops v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/silence mobs v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator conduit power v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/spectator night vision v1.1.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/track raw statistics v1.5.2.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/wandering trades v1.5.1.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/VanillaTweaks_c545071.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (DataPackBiomes) Loading biome tints data pack file "./Fungi SMP/datapacks/deepslate-stonecutting-e3331.zip"
+[04:14:41 INF] (DataPackBiomes) 0 biome tints
+[04:14:41 INF] (WorkspaceMap) Loading biome tints from config/biometints.txt
+[04:14:41 INF] (WorkspaceMap) Loading biome tints from "custom.biometints.txt"
+[04:14:41 INF] (WorkspaceMap) 1 biome tints
+[04:14:41 INF] (Web) Rendering zoom level 0
+[04:14:41 INF] (Web) Tile count: 640
+[04:14:41 INF] (Web) Looking for changed tiles at z0
+[04:14:42 INF] (Web) Tiles to render: 0
+[04:14:42 INF] (Web) Batch count: 0
+[04:14:42 INF] (Web) Rendering zoom level 1
+[04:14:42 INF] (Web) Tile count: 2560
+[04:14:42 INF] (Web) Looking for changed tiles at z1
+[04:14:42 INF] (Web) Tiles to render: 0
+[04:14:42 INF] (Web) Batch count: 0
+[04:14:42 INF] (Web) Rendering zoom level 2
+[04:14:42 INF] (Web) Tile count: 10240
+[04:14:42 INF] (Web) Looking for changed tiles at z2
+[04:14:42 INF] (Web) Looking for changed tiles at z2 (97.66%)
+[04:14:42 INF] (Web) Tiles to render: 0
+[04:14:42 INF] (Web) Batch count: 0
+[04:14:42 INF] (Web) Rendering zoom level -1
+[04:14:42 INF] (Web) Rendering zoom level -2
+[04:14:42 INF] (Web) Rendering zoom level -3
+[04:14:42 INF] (Web) Finished
+[04:14:42 INF] (Web) 0 Terrain tiles
+[04:14:42 INF] (Web) 13440 Terrain tiles skipped
+[04:14:42 INF] (Web) 0 Terrain tiles rendered
+[04:14:42 INF] (Web) 0 Chunks rendered
+[04:14:42 INF] (Web) 0 Chunks failed
+[04:14:42 INF] (Web) Elapsed time: 0.00:00:04, 0 chunks/s
+[04:14:42 INF] (Web) 236 Zoom-out tiles
+[04:14:42 INF] (Web) 236 Zoom-out tiles skipped
+[04:14:42 INF] (Web) 0 Zoom-out tiles rendered
+[04:14:42 INF] (Web) Elapsed time total: 0.00:00:04
+
+04:14:42 Pushing changes to github...
