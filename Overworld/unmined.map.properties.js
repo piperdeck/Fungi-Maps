@@ -5,9 +5,9 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "png",
     minRegionX: -11,
-    minRegionZ: -16,
-    maxRegionX: 9,
-    maxRegionZ: 14,
+    minRegionZ: -21,
+    maxRegionX: 20,
+    maxRegionZ: 22,
     worldName: "Fungi SMP",
     background: "#121212",
     markers: new Array()
