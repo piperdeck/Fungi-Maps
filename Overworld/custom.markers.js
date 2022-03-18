@@ -91,6 +91,8 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "bold 15px Georgia,serif",
+            minmapzoom: 2,
+            maxmapzoom: 1,
         },
 
         //// Iron Farm 
@@ -204,6 +206,50 @@ UnminedCustomMarkers = {
             font: "bold 15px Georgia,serif",
         },
 
+        //// Burned Woodland Mansion 
+        {
+            x: 9692,
+            z: 9362,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "The Burned\nWoodland Mansion",
+            textColor: "white",
+            strokeColor: "#000000", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+        //// Ice Fields 
+        {
+            x: 4591,
+            z: -6116,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "New Ice Fields",
+            textColor: "white",
+            strokeColor: "#000000", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+        //// Nearby Woodland Mansion 
+        {
+            x: 511,
+            z: 534,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Local\nWoodland Mansion",
+            textColor: "white",
+            strokeColor: "#000000", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
 
 
         // do not delete the following two closing brackets
