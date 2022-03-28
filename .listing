@@ -2,29 +2,29 @@
 -rw-r--r--   1 mc1217659 mc1217659      141 Apr 21  2021 .bash_profile
 -rw-r--r--   1 mc1217659 mc1217659      376 Apr 21  2021 .bashrc
 drwxr-xr-x   4 mc1217659 mc1217659       45 Feb 10 23:50 .fabric
-drwxrwx---  12 mc1217659 mc1217659     4096 Mar 27 07:55 Fungi SMP
--rw-rw----   1 mc1217659 mc1217659 3543240968 Mar 25 09:51 Fungi SMP.1.zip
--rw-rw----   1 mc1217659 mc1217659 3543268966 Mar 26 09:51 Fungi SMP.zip
--rwxrwx---   1 mc1217659 mc1217659        2 Mar 26 10:00 banned-ips.json
--rwxrwx---   1 mc1217659 mc1217659        2 Mar 26 10:00 banned-players.json
+drwxrwx---  12 mc1217659 mc1217659     4096 Mar 28 07:55 Fungi SMP
+-rw-rw----   1 mc1217659 mc1217659 3543268966 Mar 26 09:51 Fungi SMP.1.zip
+-rw-rw----   1 mc1217659 mc1217659 3543260308 Mar 27 09:51 Fungi SMP.zip
+-rwxrwx---   1 mc1217659 mc1217659        2 Mar 27 10:00 banned-ips.json
+-rwxrwx---   1 mc1217659 mc1217659        2 Mar 27 10:00 banned-players.json
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 bukkit.yml
 drwxrwx---   4 mc1217659 mc1217659      102 Feb 10 23:50 config
--rwxrwx---   1 mc1217659 mc1217659        9 Mar 26 10:00 eula.txt
+-rwxrwx---   1 mc1217659 mc1217659        9 Mar 27 10:00 eula.txt
 -rwxrwx---   1 mc1217659 mc1217659       25 Jan 18 18:31 fabric-server-launcher.properties
 drwxrwx---   3 mc1217659 mc1217659       63 Mar 01 15:11 jar
 drwxrwx---   8 mc1217659 mc1217659       71 Jan 24 19:39 libraries
-drwxr-xr-x   2 mc1217659 mc1217659     4096 Mar 27 00:02 logs
+drwxr-xr-x   2 mc1217659 mc1217659     4096 Mar 28 00:02 logs
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 magma.yml
 drwxrwx---   2 mc1217659 mc1217659     4096 Mar 10 04:01 mods
--rwxrwx---   1 mc1217659 mc1217659      266 Mar 26 10:00 ops.json
+-rwxrwx---   1 mc1217659 mc1217659      266 Mar 27 10:00 ops.json
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 paper.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 purpur.yml
 -rwxrwx---   1 mc1217659 mc1217659    11069 Jan 28 17:33 server-icon.png
--rwxrwx---   1 mc1217659 mc1217659     1224 Mar 26 10:00 server.properties
+-rwxrwx---   1 mc1217659 mc1217659     1224 Mar 27 10:00 server.properties
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 spigot.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Mar 05 18:43 test.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 tuinity.yml
--rwxrwx---   1 mc1217659 mc1217659      866 Mar 26 10:00 usercache.json
+-rwxrwx---   1 mc1217659 mc1217659      866 Mar 28 04:34 usercache.json
 drwxrwx---   4 mc1217659 mc1217659       32 Mar 10 04:02 versions
 -rwxrwx---   1 mc1217659 mc1217659      527 Mar 10 04:06 whitelist.json
 -rwxrwx---   1 mc1217659 mc1217659  3529636 Jan 24 19:41 world.zip
