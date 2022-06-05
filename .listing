@@ -2,9 +2,9 @@
 -rw-r--r--   1 mc1217659 mc1217659      141 Apr 21  2021 .bash_profile
 -rw-r--r--   1 mc1217659 mc1217659      376 Apr 21  2021 .bashrc
 drwxr-xr-x   4 mc1217659 mc1217659       45 Feb 10 23:50 .fabric
-drwxrwx---  13 mc1217659 mc1217659     4096 Jun 04 07:57 Fungi SMP
+drwxrwx---  13 mc1217659 mc1217659     4096 Jun 05 07:57 Fungi SMP
 -rw-rw----   1 mc1217659 mc1217659 3606695808 May 10 09:51 Fungi SMP.1.zip
--rw-rw----   1 mc1217659 mc1217659 3648904584 Jun 03 09:51 Fungi SMP.zip
+-rw-rw----   1 mc1217659 mc1217659 3648906892 Jun 04 09:51 Fungi SMP.zip
 -rwxrwx---   1 mc1217659 mc1217659        2 May 13 01:27 banned-ips.json
 -rwxrwx---   1 mc1217659 mc1217659        2 May 13 01:27 banned-players.json
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 bukkit.yml
@@ -13,7 +13,7 @@ drwxrwx---   5 mc1217659 mc1217659     4096 Apr 20 05:07 config
 -rwxrwx---   1 mc1217659 mc1217659       25 Jan 18 18:31 fabric-server-launcher.properties
 drwxrwx---   3 mc1217659 mc1217659       63 Mar 01 15:11 jar
 drwxrwx---   8 mc1217659 mc1217659       71 Jan 24 19:39 libraries
-drwxr-xr-x   2 mc1217659 mc1217659     8192 Jun 04 00:00 logs
+drwxr-xr-x   2 mc1217659 mc1217659     8192 Jun 05 00:03 logs
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 magma.yml
 drwxrwx---   2 mc1217659 mc1217659     4096 May 04 01:03 mods
 -rwxrwx---   1 mc1217659 mc1217659      266 May 13 01:27 ops.json
