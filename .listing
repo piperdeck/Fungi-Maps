@@ -1,35 +1,34 @@
+drwxrwx---   2 mc1217659 mc1217659      128 Oct 26 20:56 $$ Old Zips
 -rw-r--r--   1 mc1217659 mc1217659       18 Apr 21  2021 .bash_logout
 -rw-r--r--   1 mc1217659 mc1217659      141 Apr 21  2021 .bash_profile
 -rw-r--r--   1 mc1217659 mc1217659      376 Apr 21  2021 .bashrc
 drwxr-xr-x   4 mc1217659 mc1217659       45 Feb 10  2022 .fabric
-drwx------  13 mc1217659 mc1217659     4096 Oct 26 07:55 Fungi SMP
--rw-rw----   1 mc1217659 mc1217659 3649003154 Oct 24 09:51 Fungi SMP - Backup.zip
--rwxrwx---   1 mc1217659 mc1217659 239885729 Oct 25 00:59 Fungi SMP - Bakup.zip
+drwx------  13 mc1217659 mc1217659     4096 Oct 27 07:55 Fungi SMP
 drwxr-x---  13 mc1217659 mc1217659     4096 Oct 24 20:24 Fungi SMP = BACKUP
--rwxrwx---   1 mc1217659 mc1217659 3606695808 May 10 09:51 Fungi SMP.1.zip
--rw-rw----   1 mc1217659 mc1217659 350581238 Oct 25 09:50 Fungi SMP.zip
+drwx------  13 mc1217659 mc1217659     4096 Oct 26 20:33 Fungi SMP b2
+-rwxrwx---   1 mc1217659 mc1217659 369229487 Oct 26 20:58 Fungi SMP.zip
 -rwxrwx---   1 mc1217659 mc1217659 20605193 Oct 23 22:03 Geyser-Fabric.jar
--rwxrwx---   1 mc1217659 mc1217659        2 Oct 25 10:00 banned-ips.json
--rwxrwx---   1 mc1217659 mc1217659        2 Oct 25 10:00 banned-players.json
+-rwxrwx---   1 mc1217659 mc1217659        2 Oct 26 21:10 banned-ips.json
+-rwxrwx---   1 mc1217659 mc1217659        2 Oct 26 21:10 banned-players.json
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 bukkit.yml
 drwxrwx---   5 mc1217659 mc1217659     4096 Apr 20  2022 config
--rwxrwx---   1 mc1217659 mc1217659        9 Oct 25 10:00 eula.txt
+-rwxrwx---   1 mc1217659 mc1217659        9 Oct 26 21:09 eula.txt
 -rwxrwx---   1 mc1217659 mc1217659       25 Jan 18  2022 fabric-server-launcher.properties
 -rwxrwx---   1 mc1217659 mc1217659  8774865 Mar 10  2022 floodgate-fabric.jar
 drwxrwx---   3 mc1217659 mc1217659       63 Oct 19 21:29 jar
 drwxrwx---   8 mc1217659 mc1217659       71 Jan 24  2022 libraries
-drwxr-xr-x   2 mc1217659 mc1217659     4096 Oct 26 00:01 logs
+drwxr-xr-x   2 mc1217659 mc1217659     4096 Oct 27 00:01 logs
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 magma.yml
 drwxrwx---   2 mc1217659 mc1217659     4096 Oct 23 22:44 mods
--rwxrwx---   1 mc1217659 mc1217659      266 Oct 25 10:00 ops.json
+-rwxrwx---   1 mc1217659 mc1217659      266 Oct 26 21:10 ops.json
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 paper.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 purpur.yml
 -rwxrwx---   1 mc1217659 mc1217659    11069 Jan 28  2022 server-icon.png
--rwxrwx---   1 mc1217659 mc1217659     1309 Oct 25 10:00 server.properties
+-rwxrwx---   1 mc1217659 mc1217659     1309 Oct 26 21:09 server.properties
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 spigot.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Mar 05  2022 test.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08  2022 tuinity.yml
--rwxrwx---   1 mc1217659 mc1217659     1718 Oct 26 05:29 usercache.json
+-rwxrwx---   1 mc1217659 mc1217659     1718 Oct 27 03:07 usercache.json
 drwxrwx---   6 mc1217659 mc1217659       58 Oct 23 21:59 versions
 -rwxrwx---   1 mc1217659 mc1217659     1042 Apr 18  2022 whitelist.json
 -rwxrwx---   1 mc1217659 mc1217659  3529636 Jan 24  2022 world.zip
